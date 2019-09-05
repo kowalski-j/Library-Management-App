@@ -1,0 +1,32 @@
+<div *ngIf="bookMode" class="container">
+    <div class="row mt-5">
+            <div class="col-4">
+                    <button class="btn btn-success"(click)="getBooks()">See Books</button>
+                </div>
+        <div class="col-4">
+            <button class="btn btn-success" (click)="addBookToggle()">Create New Book</button>
+        </div>
+        <div class="col-4">
+                <button class="btn btn-success">Add To Favourite</button>
+            </div>
+        
+    </div>
+    <!-- Table -->
+    <table class="table table-borderless mt-5">
+        <thead>
+            <tr>
+                <th *ngFor="let head of headElements" scope="col">{{head}} </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of model">
+                <th scope="row">{{item.id}}</th>
+                <td>{{item.title}}</td>
+                <td><button class="edit-button" (click)="editBookToggle()">Edit</button></td>
+                <td><button (click)="deleteBooks()" class="delete-button">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<app-add-books *ngIf="addBookMode" (cancelAddBook)="cancelAddBookMode($event)"></app-add-books>
+<app-edit-books [modelsFromBook]="model" *ngIf="editBookMode" (cancelEditbook)="cancelEditBookMode($event)"></app-edit-books>

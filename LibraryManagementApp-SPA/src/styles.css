@@ -1,0 +1,104 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import '../node_modules/alertifyjs/build/css/alertify.min.css';
+@import '../node_modules/alertifyjs/build/css/themes/bootstrap.min.css';
+
+
+
+body{
+   background-color:  #E5E5E5;
+}
+/* Nav Bar */
+.navbar{
+    background: #5C5B63 !important;
+}
+.navbar-light .navbar-nav .active > .nav-link{
+    color: rgb(185, 213, 219);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 41px;
+    color: #EBDCDC;
+    margin-left: 41px;
+}
+.navbar-light .navbar-brand{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 41px;
+    color: #EBDCDC; 
+}
+/* dashboard */
+.dash-button{
+    width: 25rem;
+    height: 108px;
+    background: #C4C4C4;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 56px;
+    color: #000000;
+    font-size: 32px;
+}
+.dash-label{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 39px;
+    line-height: 56px;
+    color: #000000;
+    margin-left: 24rem;
+}
+/* book */
+.delete-button{
+    width: 65px;
+    height: 39px;
+    background: #F63871;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.edit-button{
+    width: 65px;
+    height: 39px;
+    background: #2E7DB6;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+    margin-left: -58px;
+}
+.add-book{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 41px;
+color: #000000;
+}
+.title{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #000000;
+}
+
+.button-back{
+    background: #FFFFFF !important;
+    margin-left: 21px;
+    width: 140px;
+}
+
+.btn:disabled{
+    cursor: not-allowed;
+    color: #000000
+}

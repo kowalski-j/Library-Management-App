@@ -1,0 +1,21 @@
+<div class="container mt-5">
+    <label class="add-book mb-4">Add Books</label> <br>
+    <div class="title">
+        Title
+    </div>
+    <form [formGroup]="addForm">
+        <div class="form-group mb-1">
+            <input class="form-control" type="text" placeholder="Enter Title" formControlName="title" [ngClass]="{'is-invalid': (addForm.get('title').touched ||
+                          addForm.get('title').dirty) &&
+                          !addForm.get('title').valid }">
+            <span class="invalid-feedback">
+                <h5> Please enter title </h5>
+            </span>
+            <br>
+        </div>
+        <div class="button-submit">
+            <button [disabled]="!addForm.valid" class="btn" (click)="addBook()">Create</button>
+            <button class="btn button-back" (click)="back()">Back</button>
+        </div>
+    </form>
+</div>

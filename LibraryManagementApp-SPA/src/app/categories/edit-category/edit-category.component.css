@@ -1,0 +1,18 @@
+button{
+    width: 140px;
+    background: #1CC76B;
+    color: #000000;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 28px;
+}
+.form-control {
+        margin-left: -5rem;
+        width: 42%;
+    }
+    
+.button-submit{
+    margin-left: 7rem;
+    }

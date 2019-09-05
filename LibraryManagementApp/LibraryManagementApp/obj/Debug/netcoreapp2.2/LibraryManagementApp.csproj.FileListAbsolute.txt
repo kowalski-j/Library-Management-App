@@ -1,0 +1,28 @@
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.csprojAssemblyReference.cache
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorAssemblyInfo.cache
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorAssemblyInfo.cs
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.deps.json
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.runtimeconfig.json
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.runtimeconfig.dev.json
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.dll
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorTargetAssemblyInfo.cache
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.pdb
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.dll
+C:\Users\APPLE\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.pdb
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.deps.json
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.runtimeconfig.json
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.runtimeconfig.dev.json
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.dll
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp2.2\LibraryManagementApp.pdb
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.csprojAssemblyReference.cache
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorAssemblyInfo.cache
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorAssemblyInfo.cs
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.RazorTargetAssemblyInfo.cache
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.dll
+C:\Users\APPLE\Desktop\Library Mangement App\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp2.2\LibraryManagementApp.pdb

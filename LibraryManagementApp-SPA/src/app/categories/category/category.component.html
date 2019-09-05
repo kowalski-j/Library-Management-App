@@ -1,0 +1,28 @@
+<div *ngIf="categoryMode" class="container">
+        <div class="row mt-5">
+            <div class="col-4">
+                <button class="btn btn-success"(click)="getCategories()">See Categories</button>
+            </div>
+            <div class="col-4">
+                <button class="btn btn-success" (click)="addCategoryToggle()" >Create Category</button>
+            </div>
+        </div>
+        <!-- Table -->
+        <table class="table table-borderless mt-5">
+            <thead>
+                <tr>
+                    <th *ngFor="let head of headElements" scope="col">{{head}} </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of model">
+                    <th scope="row">{{item.id}}</th>
+                    <td>{{item.name}}</td>
+                    <td><button class="edit-button" (click)="editCategoryToggle()">Edit</button></td>
+                    <td><button (click)="deleteCategories()" class="delete-button">Delete</button></td>
+                </tr>
+            </tbody>
+        </table>    
+    </div>
+    <app-edit-category [modelsFromCategory]="model" *ngIf="editCategoryMode" (cancelEditcategory)="cancelEditCategoryMode($event)"></app-edit-category>   
+<app-add-category *ngIf="addCategoryMode" (cancelAddCategory)="cancelAddCategoryMode($event)"></app-add-category> 
